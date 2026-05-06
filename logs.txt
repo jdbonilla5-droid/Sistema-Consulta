@@ -1,0 +1,11 @@
+Usuario: admin | Busqueda: maria | Tipo: users | Fecha: 2026-05-06 11:25:19.395916
+Usuario: Denisse | Busqueda: maria | Tipo: users | Fecha: 2026-05-06 12:38:57.817517
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 12:39:03.149976
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 13:04:40.965061
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 13:05:58.988123
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 13:06:16.491527
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 13:06:28.512017
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 13:06:43.178933
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 13:07:06.237923
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 13:07:57.636833
+Usuario: Denisse | Busqueda: valentina | Tipo: users | Fecha: 2026-05-06 13:09:18.856146
