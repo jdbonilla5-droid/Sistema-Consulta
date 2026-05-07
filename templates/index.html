@@ -44,6 +44,7 @@
 
 </div>
 
+<!-- Envía datos al backend Flask --> 
 <form method="POST">
 
     <label>Tipo:</label>
@@ -61,15 +62,15 @@
 
     <label><b>Selecciona:</b></label><br><br>
 
-    <!-- Usuarios -->
+    <!-- CHECKBOX -->
      
     <div style="display:flex; gap:15px; align-items:center; justify-content:center;">
 
     <label><input type="checkbox" name="attributes" value="name"> Nombre</label>
     <label><input type="checkbox" name="attributes" value="email"> Email</label>
     <label><input type="checkbox" name="attributes" value="user"> Usuario</label>
-    <label><input type="checkbox" name="attributes" value="dns"> DNS</label>
-    <label><input type="checkbox" name="attributes" value="os"> SO</label>
+    <label><input type="checkbox" name="attributes" value="DNS"> DNS</label>
+    <label><input type="checkbox" name="attributes" value="SO"> SO</label>
 </div>
 
     <br>
@@ -102,7 +103,7 @@
 
 <br>
 
-<form action="/export" method="get">
+<form action="/export" method="get" style="position: fixed; bottom: 20px; right: 20px;">
     <input type="hidden" name="data" value='{{ data_json }}'>
     <input type="hidden" name="columns" value='{{ columns_json }}'>
     <button type="submit">Exportar CSV</button>
